@@ -1,0 +1,9 @@
+Order ID,Order Date,Region,Product Category,Sales,Profit
+CA-1000,2023-01-10,West,Furniture,250,35
+CA-1001,2023-02-15,East,Technology,400,70
+CA-1002,2023-03-05,Central,Office Supplies,150,10
+CA-1003,2023-03-20,South,Furniture,700,140
+CA-1004,2023-04-10,West,Technology,1200,300
+CA-1005,2023-05-25,East,Office Supplies,300,20
+CA-1006,2023-06-01,Central,Furniture,650,90
+CA-1007,2023-06-15,South,Technology,950,180
